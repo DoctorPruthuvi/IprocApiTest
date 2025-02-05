@@ -7,12 +7,12 @@
 
 ### 1. Configure Database Connection
 
-Modify `appsettings.json`:
+
 
 ```json
-"ConnectionStrings": {
-  "DefaultConnection": "Server=your_server;Database=TvMazeDB;Integrated Security=True;"
-}
+
+ options.UseSqlServer("Server=.;Database=TvMazeDB;Trusted_Connection=True;"));
+
 ```
 
 
