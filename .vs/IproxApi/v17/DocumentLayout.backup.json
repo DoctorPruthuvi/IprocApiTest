@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|d:\\my works\\personal implementation\\c#\\iproxapi\\iproxapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|solutionrelative:iproxapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0EA5D-8449-4724-BCA0-EE0815552C06}|TMTest\\TMTest.csproj|d:\\my works\\personal implementation\\c#\\iproxapi\\tmtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0EA5D-8449-4724-BCA0-EE0815552C06}|TMTest\\TMTest.csproj|solutionrelative:tmtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0EA5D-8449-4724-BCA0-EE0815552C06}|TMTest\\TMTest.csproj|d:\\my works\\personal implementation\\c#\\iproxapi\\tmtest\\tmtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7E0EA5D-8449-4724-BCA0-EE0815552C06}|TMTest\\TMTest.csproj|solutionrelative:tmtest\\tmtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|d:\\my works\\personal implementation\\c#\\iproxapi\\iproxapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|solutionrelative:iproxapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|d:\\my works\\personal implementation\\c#\\iproxapi\\iproxapi\\iproxapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|solutionrelative:iproxapi\\iproxapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|d:\\my works\\personal implementation\\c#\\iproxapi\\iproxapi\\iproxapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE408BC7-F826-43C6-BCA8-D087E6AAD5D7}|IproxApi\\IproxApi.csproj|solutionrelative:iproxapi\\iproxapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\appsettings.json",
+              "RelativeDocumentMoniker": "IproxApi\\appsettings.json",
+              "ToolTip": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\appsettings.json",
+              "RelativeToolTip": "IproxApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T06:07:32.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\Program.cs",
+              "RelativeDocumentMoniker": "IproxApi\\Program.cs",
+              "ToolTip": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\Program.cs",
+              "RelativeToolTip": "IproxApi\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:18:37.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IproxApi.http",
+              "DocumentMoniker": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\IproxApi.http",
+              "RelativeDocumentMoniker": "IproxApi\\IproxApi.http",
+              "ToolTip": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\IproxApi.http",
+              "RelativeToolTip": "IproxApi\\IproxApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-30T06:07:33.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TMTest.csproj",
+              "DocumentMoniker": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\TMTest\\TMTest.csproj",
+              "RelativeDocumentMoniker": "TMTest\\TMTest.csproj",
+              "ToolTip": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\TMTest\\TMTest.csproj",
+              "RelativeToolTip": "TMTest\\TMTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T06:45:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\TMTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TMTest\\UnitTest1.cs",
+              "ToolTip": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\TMTest\\UnitTest1.cs",
+              "RelativeToolTip": "TMTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:04:58.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IproxApi.csproj",
+              "DocumentMoniker": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\IproxApi.csproj",
+              "RelativeDocumentMoniker": "IproxApi\\IproxApi.csproj",
+              "ToolTip": "D:\\My Works\\Personal Implementation\\C#\\IproxApi\\IproxApi\\IproxApi.csproj",
+              "RelativeToolTip": "IproxApi\\IproxApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T06:09:32.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

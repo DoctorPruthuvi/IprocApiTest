@@ -1,0 +1,6 @@
+@IproxApi_HostAddress = http://localhost:5136
+
+GET {{IproxApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
